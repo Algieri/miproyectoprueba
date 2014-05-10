@@ -7,16 +7,16 @@ public class suma {
 	int suma,a,b,i;
 	int[]vector=new int[20]; 
 	System.out.print("Ingrese un valor");
-	a= sc.nextInt();
 	for(i=0;i<6;i++){
 	
-
+	a= sc.nextInt();
 	//System.out.print("Ingrese el segundo valor");
 	//b= sc.nextInt();
 	//suma=a+b;
 	  // System.out.println("El resultado es: " +suma);
 	do {
 		a=a-2;
+		//COMENT
 
 
 
